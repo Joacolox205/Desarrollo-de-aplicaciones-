@@ -1,0 +1,2 @@
+C:\Users\SSDD\Desktop\PracticaEjerciciosKotlinV1\src\main\kotlin\Main.kt
+C:\Users\SSDD\Desktop\PracticaEjerciciosKotlinV1\src\main\kotlin\TablaMultiplicar.kt
