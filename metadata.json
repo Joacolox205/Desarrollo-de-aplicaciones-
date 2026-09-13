@@ -1,0 +1,6 @@
+{
+  "name": "Prácticas Kotlin",
+  "description": "Suite interactiva de desarrollo de aplicaciones en Kotlin: Clasificador de Cine y Entradas, Generador de Tablas de Multiplicar, Gestor de Playlist Musical y Evaluador Académico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
